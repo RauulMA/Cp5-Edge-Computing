@@ -1,4 +1,4 @@
-# 🍷 Vinheria Agnello — Sistema IoT de Monitoramento Ambiental (ESP32 + MQTT)
+# 🍷 Vinheria Agnello — Sistema IoT de Monitoramento (ESP32 + MQTT)
 
 **Checkpoint — Edge Computing & Computer Systems | FIAP 2026**
 
