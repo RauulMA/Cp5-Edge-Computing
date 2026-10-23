@@ -31,9 +31,15 @@ Sistema de monitoramento ambiental inteligente desenvolvido com **ESP32** para a
 
 | Componente | Pino do ESP32 | Descrição |
 | :--- | :---: | :--- |
-| **LED Vermelho** | GPIO 2 (D4) | LED integrado para indicação de estado |
+| **LED Vermelho** | GPIO 2 (D4) | LED para indicação de estado |
 | **Sensor LDR** | GPIO 34 | Entrada analógica (ADC) para leitura de luz |
 | **Sensor DHT22** | GPIO 4 | Entrada digital para dados de temperatura e umidade |
+
+## 🧑‍💻 Print do Projeto
+<img width="689" height="413" alt="image" src="https://github.com/user-attachments/assets/c462bef1-b62f-4239-a707-e630aca72e6e" />
+
+---
+
 
 ## 📦 Dependências (Bibliotecas Necessárias)
 
