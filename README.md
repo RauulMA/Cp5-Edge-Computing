@@ -69,7 +69,7 @@ O sistema conecta-se automaticamente à rede Wi-Fi e ao Broker MQTT configurado 
 
 ### Simulação (Wokwi)
 1. Acesse o Wokwi e crie um novo projeto para **ESP32**.
-2. Adicione os componentes **LDR**, **Resistor de 10k**, e o **Sensor DHT22**.
+2. Adicione os componentes **LDR**, **Resistor de 330Ω**, e o **Sensor DHT22**.
 3. Realize as conexões elétricas seguindo a tabela de pinagem descrita no projeto.
 4. Instale as bibliotecas necessárias (`PubSubClient` e `DHT sensor library`) no gerenciador de bibliotecas.
 5. Cole o código-fonte na aba principal e inicie a simulação.
