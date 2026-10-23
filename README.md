@@ -9,7 +9,7 @@
 Sistema de monitoramento ambiental inteligente desenvolvido com **ESP32** para a **Vinheria Agnello**. O objetivo é proteger o estoque de vinhos controlando rigorosamente as condições ambientais:
 * **Luminosidade (LDR):** Evita a exposição excessiva à luz (que pode degradar os compostos orgânicos do vinho).
 * **Temperatura e Umidade (DHT22):** Monitora o clima do ambiente para garantir que se mantenha dentro dos padrões ideais de armazenamento de vinhos.
-* **Atuador e Telemetria (MQTT/FIWARE):** Permite o controle remoto do LED onboard (simulando um atuador de status) e o envio contínuo de dados para a nuvem via protocolo MQTT utilizando o padrão FIWARE Descomplicado.
+* **Atuador e Telemetria (MQTT/FIWARE):** Permite o controle remoto do LED onboard (simulando um atuador de status) e o envio contínuo de dados para a nuvem via protocolo MQTT.
 
 ---
 
