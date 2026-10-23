@@ -332,7 +332,7 @@ void handleHumidity() {
 
 ## 🎥 Demonstração em Vídeo
 
-👉 [Assistir ao vídeo do projeto funcionando no YouTube](https://github.com/RauulMA/Cp5-Edge-Computing/blob/main/README.md)
+👉 [Assistir ao vídeo do projeto funcionando no YouTube](https://www.youtube.com/watch?v=p97RLRWI7pU)
 
 ---
 
