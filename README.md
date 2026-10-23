@@ -35,6 +35,8 @@ Sistema de monitoramento ambiental inteligente desenvolvido com **ESP32** para a
 | **Sensor LDR** | GPIO 34 | Entrada analógica (ADC) para leitura de luz |
 | **Sensor DHT22** | GPIO 4 | Entrada digital para dados de temperatura e umidade |
 
+---
+
 ## 🧑‍💻 Print do Projeto
 <img width="689" height="413" alt="image" src="https://github.com/user-attachments/assets/c462bef1-b62f-4239-a707-e630aca72e6e" />
 
