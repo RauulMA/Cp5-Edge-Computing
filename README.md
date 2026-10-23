@@ -80,10 +80,6 @@ O sistema conecta-se automaticamente à rede Wi-Fi e ao Broker MQTT configurado 
 ## 💻 Código-Fonte
 
 ```cpp
-// Autor original: Fábio Henrique Cabrini
-// Atualizado para integrar: Controle de LED, Leitura de Luminosidade (LDR) e Sensor DHT22 (Temperatura e Umidade)
-// Padrão de código modularizado por funções (FIWARE Descomplicado)
-
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <DHT.h>
@@ -94,7 +90,7 @@ const char* default_PASSWORD = ""; // Senha da rede Wi-Fi
 const char* default_BROKER_MQTT = "3.135.234.101"; // IP do Broker MQTT
 const int default_BROKER_PORT = 1883; // Porta do Broker MQTT
 
-// Tópicos MQTT (Padrão FIWARE Descomplicado)
+// Tópicos MQTT
 const char* default_TOPICO_SUBSCRIBE = "/TEF/device005/cmd"; 
 const char* default_TOPICO_PUBLISH_1 = "/TEF/device005/attrs"; // Estado do LED
 const char* default_TOPICO_PUBLISH_LUM = "/TEF/device005/attrs/l"; // Luminosidade
@@ -128,7 +124,7 @@ WiFiClient espClient;
 PubSubClient MQTT(espClient);
 char EstadoSaida = '0';
 
-// Declarações de Funções (Padrão do Professor)
+// Declarações de Funções
 void initSerial();
 void initWiFi();
 void initMQTT();
