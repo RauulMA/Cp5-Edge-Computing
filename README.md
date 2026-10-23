@@ -308,3 +308,21 @@ void handleHumidity() {
     Serial.print(umidade);
     Serial.println(" %");
 }
+```
+## 👥 Integrantes do Grupo
+
+| Nome | RM |
+| :--- | :---: |
+| Raul Moreira Andrade | 571042 |
+| Vitor Assis Florenzano | 572192 |
+| Vinicius Scalone Ramires | 573783 |
+| Lucas Rodrigues dos Santos | 571778 |
+
+---
+
+## 📅 Informações da Entrega
+
+* **Disciplina:** Edge Computing & Computer Systems
+* **Professor:** Lucas D. Augusto
+* **Turma:** 1ESPV
+* **Instituição:** FIAP
