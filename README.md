@@ -320,6 +320,18 @@ void handleHumidity() {
 
 ---
 
+## 🔗 Link da Simulação (Wokwi)
+
+👉 [Acessar a simulação do projeto no Wokwi](https://wokwi.com/projects/478706544381505537)
+
+---
+
+## 🎥 Demonstração em Vídeo
+
+👉 [Assistir ao vídeo do projeto funcionando no YouTube](https://github.com/RauulMA/Cp5-Edge-Computing/edit/main/README.md)
+
+---
+
 ## 📅 Informações da Entrega
 
 * **Disciplina:** Edge Computing & Computer Systems
